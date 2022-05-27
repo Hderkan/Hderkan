@@ -2,15 +2,15 @@
  👋 
 
 
-**Hderkan/Hderkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ... .NET Core , C# , JavaScript
-- 👯 I’m looking to collaborate on ... .NET Core
-- 🤔 I’m looking for help with ... OOP
-- 💬 Ask me about ...Anything
+
+
+
+- 🌱 I’m currently learning : .NET Core , C# , JavaScript
+- 👯 I’m looking to collaborate on : .NET Core
+- 🤔 I’m looking for help with : OOP
+- 💬 Ask me about : Anything
 - 📫  reach me at hakanderkan@outlook.com
 
 
